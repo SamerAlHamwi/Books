@@ -48,7 +48,7 @@ class _RootAppState extends State<RootApp> {
               height: 10,
             ),
             Text(
-              "Samer AlHamwi",
+              "Rafah Dakakni",
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.bold,

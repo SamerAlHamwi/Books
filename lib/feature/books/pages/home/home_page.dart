@@ -26,6 +26,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: AppColor.white,
       body: getBody(),
     );
+
   }
 
   Widget getBody() {
@@ -108,7 +109,7 @@ class _HomePageState extends State<HomePage> {
                       mainAxisAlignment: MainAxisAlignment.center,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        Text("Samer AlHamwi",style: TextStyle(
+                        Text("Rafah Dakakni",style: TextStyle(
                           fontSize: 18,
                           fontWeight: FontWeight.bold,
                           color: AppColor.white,
